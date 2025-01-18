@@ -20,3 +20,4 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+/DevLabCore/bin/Debug/net8.0/DevLabCore.deps.json
